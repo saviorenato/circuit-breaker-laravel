@@ -1,1 +1,1 @@
-# circuit-breaker-php
+# circuit-breaker-laravel
